@@ -1,11 +1,10 @@
 
-<h1 align="center">
-  MERN eCommerce Project with AWS Integration and SEO
-<h1>
+##MERN eCommerce Project with AWS Integration and SEO
+
 This project is a MERN (MongoDB, ExpressJS, ReactJS, NodeJS) stack eCommerce website with integrated AWS services and optimized for SEO.<br/>
 The website allows users to browse and purchase products, manage their cart and orders, and also provides admin capabilities such as adding new products and managing orders.
 
-#Features
+##Features
 User Authentication & Authorization
 Product management (CRUD operations)
 Cart management
